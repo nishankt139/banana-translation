@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+
+body{
+    font-family: 'Satisfy', cursive;
+}
+
+
+textarea{
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+    font-family: 'Satisfy', cursive;
+    font-size: large;
+}
+    
+
+
+h1{
+    text-align: center;
+    padding: 2rem;
+    background-color: cyan;
+}
+
+
+
+button{
+    margin: 0.9rem;
+}
+
+#output{
+    border: 2px solid black;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+    width: 80%;
+    font-size: large;
+}
+
+#btn-translate{
+    padding: 1rem;
+    margin: 1rem;
+    background-color: cyan;
+}
+
+div{
+    margin: 0.9rem;
+    padding: 0.5rem;    
+}    
+
+#out{
+    text-align: center;
+    padding: 2rem;
+    margin: 1rem;
+    background-color: cyan;
+}
+
+
+
